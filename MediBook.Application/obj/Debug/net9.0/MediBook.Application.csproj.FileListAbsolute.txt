@@ -1,0 +1,15 @@
+C:\Users\mohmu\visual\repos\MediBook\MediBook.Application\bin\Debug\net9.0\MediBook.Application.deps.json
+C:\Users\mohmu\visual\repos\MediBook\MediBook.Application\bin\Debug\net9.0\MediBook.Application.dll
+C:\Users\mohmu\visual\repos\MediBook\MediBook.Application\bin\Debug\net9.0\MediBook.Application.pdb
+C:\Users\mohmu\visual\repos\MediBook\MediBook.Application\bin\Debug\net9.0\MediBook.Domain.dll
+C:\Users\mohmu\visual\repos\MediBook\MediBook.Application\bin\Debug\net9.0\MediBook.Domain.pdb
+C:\Users\mohmu\visual\repos\MediBook\MediBook.Application\obj\Debug\net9.0\MediBook.Application.csproj.AssemblyReference.cache
+C:\Users\mohmu\visual\repos\MediBook\MediBook.Application\obj\Debug\net9.0\MediBook.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohmu\visual\repos\MediBook\MediBook.Application\obj\Debug\net9.0\MediBook.Application.AssemblyInfoInputs.cache
+C:\Users\mohmu\visual\repos\MediBook\MediBook.Application\obj\Debug\net9.0\MediBook.Application.AssemblyInfo.cs
+C:\Users\mohmu\visual\repos\MediBook\MediBook.Application\obj\Debug\net9.0\MediBook.Application.csproj.CoreCompileInputs.cache
+C:\Users\mohmu\visual\repos\MediBook\MediBook.Application\obj\Debug\net9.0\MediBook.2E13F3FB.Up2Date
+C:\Users\mohmu\visual\repos\MediBook\MediBook.Application\obj\Debug\net9.0\MediBook.Application.dll
+C:\Users\mohmu\visual\repos\MediBook\MediBook.Application\obj\Debug\net9.0\refint\MediBook.Application.dll
+C:\Users\mohmu\visual\repos\MediBook\MediBook.Application\obj\Debug\net9.0\MediBook.Application.pdb
+C:\Users\mohmu\visual\repos\MediBook\MediBook.Application\obj\Debug\net9.0\ref\MediBook.Application.dll

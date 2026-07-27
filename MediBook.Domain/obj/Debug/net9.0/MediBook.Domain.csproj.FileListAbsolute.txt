@@ -1,0 +1,11 @@
+C:\Users\mohmu\visual\repos\MediBook\MediBook.Domain\bin\Debug\net9.0\MediBook.Domain.deps.json
+C:\Users\mohmu\visual\repos\MediBook\MediBook.Domain\bin\Debug\net9.0\MediBook.Domain.dll
+C:\Users\mohmu\visual\repos\MediBook\MediBook.Domain\bin\Debug\net9.0\MediBook.Domain.pdb
+C:\Users\mohmu\visual\repos\MediBook\MediBook.Domain\obj\Debug\net9.0\MediBook.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohmu\visual\repos\MediBook\MediBook.Domain\obj\Debug\net9.0\MediBook.Domain.AssemblyInfoInputs.cache
+C:\Users\mohmu\visual\repos\MediBook\MediBook.Domain\obj\Debug\net9.0\MediBook.Domain.AssemblyInfo.cs
+C:\Users\mohmu\visual\repos\MediBook\MediBook.Domain\obj\Debug\net9.0\MediBook.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mohmu\visual\repos\MediBook\MediBook.Domain\obj\Debug\net9.0\MediBook.Domain.dll
+C:\Users\mohmu\visual\repos\MediBook\MediBook.Domain\obj\Debug\net9.0\refint\MediBook.Domain.dll
+C:\Users\mohmu\visual\repos\MediBook\MediBook.Domain\obj\Debug\net9.0\MediBook.Domain.pdb
+C:\Users\mohmu\visual\repos\MediBook\MediBook.Domain\obj\Debug\net9.0\ref\MediBook.Domain.dll
