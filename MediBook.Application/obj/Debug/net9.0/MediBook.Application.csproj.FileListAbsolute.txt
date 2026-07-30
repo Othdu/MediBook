@@ -13,3 +13,4 @@ C:\Users\mohmu\visual\repos\MediBook\MediBook.Application\obj\Debug\net9.0\MediB
 C:\Users\mohmu\visual\repos\MediBook\MediBook.Application\obj\Debug\net9.0\refint\MediBook.Application.dll
 C:\Users\mohmu\visual\repos\MediBook\MediBook.Application\obj\Debug\net9.0\MediBook.Application.pdb
 C:\Users\mohmu\visual\repos\MediBook\MediBook.Application\obj\Debug\net9.0\ref\MediBook.Application.dll
+C:\Users\mohmu\visual\repos\MediBook\MediBook.Application\obj\Debug\net9.0\MediBook.Application.sourcelink.json

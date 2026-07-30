@@ -32,6 +32,80 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "MediBook.API.Controllers.DoctorAvailabilitiesController",
+    "Method": "Create",
+    "RelativePath": "api/DoctorAvailabilities",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "MediBook.Application.Dtos.DoctorAvailabilityDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MediBook.API.Controllers.DoctorAvailabilitiesController",
+    "Method": "GetByDoctorId",
+    "RelativePath": "api/DoctorAvailabilities/doctor/{doctorId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "doctorId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MediBook.API.Controllers.DoctorsController",
+    "Method": "GetALl",
+    "RelativePath": "api/Doctors",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MediBook.API.Controllers.DoctorsController",
+    "Method": "Create",
+    "RelativePath": "api/Doctors",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "MediBook.Application.Dtos.DoctorDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MediBook.API.Controllers.DoctorsController",
+    "Method": "GetById",
+    "RelativePath": "api/Doctors/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "MediBook.API.Controllers.SpecialtiesController",
     "Method": "GetAll",
     "RelativePath": "api/Specialties",

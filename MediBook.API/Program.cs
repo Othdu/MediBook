@@ -12,6 +12,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 builder.Services.AddScoped<SpecialtyService>();
 builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddScoped<DoctorService>();
+
 builder.Services.AddSwaggerGen(c =>
 {
     c.AddSecurityDefinition("Bearer", new Microsoft.OpenApi.Models.OpenApiSecurityScheme
@@ -37,7 +39,7 @@ builder.Services.AddSwaggerGen(c =>
 
 builder.Services.AddInfrastructure(builder.Configuration);
 builder.Services.AddScoped<AuthService>();
-
+builder.Services.AddScoped<DoctorAvailabilityService>();
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>
     {
@@ -61,6 +63,7 @@ using (var scope = app.Services.CreateScope())
     var db = scope.ServiceProvider.GetRequiredService<MediBookDbContext>();
     db.Database.Migrate();
 }
+
 
 app.UseSwagger();
 app.UseSwaggerUI();

@@ -14,14 +14,15 @@ namespace MediBook.Infrastructure
         {
             services.AddDbContext<MediBookDbContext>(options =>
                 options.UseNpgsql(configuration.GetConnectionString("DefaultConnection")));
-
             services.AddScoped<IDoctorRepository, DoctorRepository>();
+            services.AddScoped<IDoctorRepository, DoctorRepository>();
+            services.AddScoped<IDoctorAvailabilityRepository, DoctorAvailabilityRepository>();
             services.AddScoped<IPatientRepository, PatientRepository>();
             services.AddScoped<ISpecialtyRepository, SpecialtyRepository>();
             services.AddScoped<IAppointmentRepository, AppointmentRepository>();
             services.AddScoped<IUserRepository, UserRepository>();
             services.AddScoped<ITokenGenerator, JwtTokenGenerator>();
-
+            
             return services;
         }
     }

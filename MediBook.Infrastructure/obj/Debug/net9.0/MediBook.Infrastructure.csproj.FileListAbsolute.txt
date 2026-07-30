@@ -17,3 +17,4 @@ C:\Users\mohmu\visual\repos\MediBook\MediBook.Infrastructure\obj\Debug\net9.0\Me
 C:\Users\mohmu\visual\repos\MediBook\MediBook.Infrastructure\obj\Debug\net9.0\ref\MediBook.Infrastructure.dll
 C:\Users\mohmu\visual\repos\MediBook\MediBook.Infrastructure\bin\Debug\net9.0\MediBook.Infrastructure.runtimeconfig.json
 C:\Users\mohmu\visual\repos\MediBook\MediBook.Infrastructure\obj\Debug\net9.0\MediBook.Infrastructure.genruntimeconfig.cache
+C:\Users\mohmu\visual\repos\MediBook\MediBook.Infrastructure\obj\Debug\net9.0\MediBook.Infrastructure.sourcelink.json

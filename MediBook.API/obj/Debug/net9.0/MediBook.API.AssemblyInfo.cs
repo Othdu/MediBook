@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MediBook.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17c56f3afcea360c0d6f947372b445eb24c36dc2")]
 [assembly: System.Reflection.AssemblyProductAttribute("MediBook.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MediBook.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

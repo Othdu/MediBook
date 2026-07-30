@@ -9,3 +9,4 @@ C:\Users\mohmu\visual\repos\MediBook\MediBook.Domain\obj\Debug\net9.0\MediBook.D
 C:\Users\mohmu\visual\repos\MediBook\MediBook.Domain\obj\Debug\net9.0\refint\MediBook.Domain.dll
 C:\Users\mohmu\visual\repos\MediBook\MediBook.Domain\obj\Debug\net9.0\MediBook.Domain.pdb
 C:\Users\mohmu\visual\repos\MediBook\MediBook.Domain\obj\Debug\net9.0\ref\MediBook.Domain.dll
+C:\Users\mohmu\visual\repos\MediBook\MediBook.Domain\obj\Debug\net9.0\MediBook.Domain.sourcelink.json
