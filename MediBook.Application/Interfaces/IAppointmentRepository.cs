@@ -13,7 +13,7 @@ namespace MediBook.Application.Interfaces
         Appointment? GetById(int id);
         void Add(Appointment appointment);
         List <Appointment> GetByDoctorAndDate(int doctorId,DateTime date);
-        void update(Appointment appointment);
+        void Update(Appointment appointment);
         void SaveChanges();
     }
 }

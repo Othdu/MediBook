@@ -28,7 +28,7 @@ namespace MediBook.Infrastructure.Repositories
 
         public void Add(Appointment appointment) => _db.Appointments.Add(appointment);
 
-        public void update(Appointment appointment) => _db.Appointments.Update(appointment);
+        public void Update(Appointment appointment) => _db.Appointments.Update(appointment);
 
         public void SaveChanges() => _db.SaveChanges();
     }

@@ -10,6 +10,14 @@ namespace MediBook.Infrastructure.Data
 {
     public class MediBookDbContext :DbContext
     {
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+          modelBuilder.Entity<Appointment>()
+        .Property(a => a.ScheduledAt)
+        .HasColumnType("timestamp without time zone");
+
+            base.OnModelCreating(modelBuilder);
+        }
         public MediBookDbContext(DbContextOptions<MediBookDbContext> options) : base(options) { }
 
         public DbSet<Doctor> Doctors => Set<Doctor>();
