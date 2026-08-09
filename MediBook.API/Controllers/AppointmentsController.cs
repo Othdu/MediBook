@@ -30,5 +30,7 @@ namespace MediBook.API.Controllers
         [HttpPatch("{id}/complete")]
         [Authorize(Roles = "Admin,Doctor")]
         public ActionResult Complete(int id) => Ok(_appointmentService.Complete(id));
+        [HttpGet("filter")]
+        public ActionResult GetFiltered([FromQuery] AppointmentFilterDto filter) => Ok(_appointmentService.GetFiltered(filter));
     }
 }

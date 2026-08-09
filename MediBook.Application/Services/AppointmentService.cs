@@ -38,7 +38,39 @@ namespace MediBook.Application.Services
 
             return MapToDto(appointment);
         }
+        public PagedAppointmentResponseDto GetFiltered(AppointmentFilterDto filter)
+        {
+            var query = _appointmentRepository.GetAll().AsQueryable();
 
+            if (filter.DoctorId.HasValue)
+                query = query.Where(a => a.DoctorId == filter.DoctorId.Value);
+
+            if (!string.IsNullOrEmpty(filter.Status) && Enum.TryParse<AppointmentStatus>(filter.Status, true, out var status))
+                query = query.Where(a => a.Status == status);
+
+            if (filter.FromDate.HasValue)
+                query = query.Where(a => a.ScheduledAt >= filter.FromDate.Value);
+
+            if (filter.ToDate.HasValue)
+                query = query.Where(a => a.ScheduledAt <= filter.ToDate.Value);
+
+            var totalCount = query.Count();
+
+            var items = query
+                .OrderBy(a => a.ScheduledAt)
+                .Skip((filter.Page - 1) * filter.PageSize)
+                .Take(filter.PageSize)
+                .Select(a => MapToDto(a))
+                .ToList();
+
+            return new PagedAppointmentResponseDto
+            {
+                Items = items,
+                TotalCount = totalCount,
+                Page = filter.Page,
+                PageSize = filter.PageSize
+            };
+        }
         public AppointmentResponseDto Cancel(int id)
         {
             var appointment = _appointmentRepository.GetById(id)

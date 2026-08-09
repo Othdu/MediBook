@@ -41,6 +41,7 @@ builder.Services.AddInfrastructure(builder.Configuration);
 builder.Services.AddScoped<AuthService>();
 builder.Services.AddScoped<DoctorAvailabilityService>();
 builder.Services.AddScoped<PatientService>();
+builder.Services.AddScoped<DashboardService>();
 builder.Services.AddScoped<AppointmentService>();
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>
