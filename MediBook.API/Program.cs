@@ -6,6 +6,9 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using Microsoft.OpenApi;
+using FluentValidation;
+using FluentValidation.AspNetCore;
+using MediBook.Application.Validators;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -36,7 +39,8 @@ builder.Services.AddSwaggerGen(c =>
         }
     });
 });
-
+builder.Services.AddValidatorsFromAssemblyContaining<DoctorAvailabilityValidator>();
+builder.Services.AddFluentValidationAutoValidation();
 builder.Services.AddInfrastructure(builder.Configuration);
 builder.Services.AddScoped<AuthService>();
 builder.Services.AddScoped<DoctorAvailabilityService>();

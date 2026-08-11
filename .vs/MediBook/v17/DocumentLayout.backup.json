@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8039AC7-44B8-4424-B7C6-8482169C5EF2}|MediBook.API\\MediBook.API.csproj|c:\\users\\mohmu\\visual\\repos\\medibook\\medibook.api\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8039AC7-44B8-4424-B7C6-8482169C5EF2}|MediBook.API\\MediBook.API.csproj|solutionrelative:medibook.api\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A86DB238-9C23-4181-BACC-A1A531F44F31}|MediBook.Application\\MediBook.Application.csproj|c:\\users\\mohmu\\visual\\repos\\medibook\\medibook.application\\validators\\doctoravaikabilityvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86DB238-9C23-4181-BACC-A1A531F44F31}|MediBook.Application\\MediBook.Application.csproj|solutionrelative:medibook.application\\validators\\doctoravaikabilityvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86DB238-9C23-4181-BACC-A1A531F44F31}|MediBook.Application\\MediBook.Application.csproj|c:\\users\\mohmu\\visual\\repos\\medibook\\medibook.application\\services\\doctoravailabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86DB238-9C23-4181-BACC-A1A531F44F31}|MediBook.Application\\MediBook.Application.csproj|solutionrelative:medibook.application\\services\\doctoravailabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A86DB238-9C23-4181-BACC-A1A531F44F31}|MediBook.Application\\MediBook.Application.csproj|c:\\users\\mohmu\\visual\\repos\\medibook\\medibook.application\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A86DB238-9C23-4181-BACC-A1A531F44F31}|MediBook.Application\\MediBook.Application.csproj|solutionrelative:medibook.application\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8039AC7-44B8-4424-B7C6-8482169C5EF2}|MediBook.API\\MediBook.API.csproj|c:\\users\\mohmu\\visual\\repos\\medibook\\medibook.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8039AC7-44B8-4424-B7C6-8482169C5EF2}|MediBook.API\\MediBook.API.csproj|solutionrelative:medibook.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7468BB-6152-4B1C-B0A6-22F2A1945800}|MediBook.UnitTests\\MediBook.UnitTests.csproj|c:\\users\\mohmu\\visual\\repos\\medibook\\medibook.unittests\\services\\appointmentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7468BB-6152-4B1C-B0A6-22F2A1945800}|MediBook.UnitTests\\MediBook.UnitTests.csproj|solutionrelative:medibook.unittests\\services\\appointmentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7468BB-6152-4B1C-B0A6-22F2A1945800}|MediBook.UnitTests\\MediBook.UnitTests.csproj|c:\\users\\mohmu\\visual\\repos\\medibook\\medibook.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7468BB-6152-4B1C-B0A6-22F2A1945800}|MediBook.UnitTests\\MediBook.UnitTests.csproj|solutionrelative:medibook.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8039AC7-44B8-4424-B7C6-8482169C5EF2}|MediBook.API\\MediBook.API.csproj|c:\\users\\mohmu\\visual\\repos\\medibook\\medibook.api\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8039AC7-44B8-4424-B7C6-8482169C5EF2}|MediBook.API\\MediBook.API.csproj|solutionrelative:medibook.api\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A86DB238-9C23-4181-BACC-A1A531F44F31}|MediBook.Application\\MediBook.Application.csproj|c:\\users\\mohmu\\visual\\repos\\medibook\\medibook.application\\dtos\\appointmentfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A86DB238-9C23-4181-BACC-A1A531F44F31}|MediBook.Application\\MediBook.Application.csproj|c:\\users\\mohmu\\visual\\repos\\medibook\\medibook.application\\dtos\\dashboardresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A86DB238-9C23-4181-BACC-A1A531F44F31}|MediBook.Application\\MediBook.Application.csproj|solutionrelative:medibook.application\\dtos\\dashboardresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8039AC7-44B8-4424-B7C6-8482169C5EF2}|MediBook.API\\MediBook.API.csproj|c:\\users\\mohmu\\visual\\repos\\medibook\\medibook.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8039AC7-44B8-4424-B7C6-8482169C5EF2}|MediBook.API\\MediBook.API.csproj|solutionrelative:medibook.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8039AC7-44B8-4424-B7C6-8482169C5EF2}|MediBook.API\\MediBook.API.csproj|c:\\users\\mohmu\\visual\\repos\\medibook\\medibook.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -101,10 +117,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A86DB238-9C23-4181-BACC-A1A531F44F31}|MediBook.Application\\MediBook.Application.csproj|c:\\users\\mohmu\\visual\\repos\\medibook\\medibook.application\\dtos\\doctoravailabilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A86DB238-9C23-4181-BACC-A1A531F44F31}|MediBook.Application\\MediBook.Application.csproj|solutionrelative:medibook.application\\dtos\\doctoravailabilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A86DB238-9C23-4181-BACC-A1A531F44F31}|MediBook.Application\\MediBook.Application.csproj|c:\\users\\mohmu\\visual\\repos\\medibook\\medibook.application\\services\\doctoravailabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A86DB238-9C23-4181-BACC-A1A531F44F31}|MediBook.Application\\MediBook.Application.csproj|solutionrelative:medibook.application\\services\\doctoravailabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A86DB238-9C23-4181-BACC-A1A531F44F31}|MediBook.Application\\MediBook.Application.csproj|c:\\users\\mohmu\\visual\\repos\\medibook\\medibook.application\\interfaces\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -222,49 +234,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppointmentFilterDto.cs",
-              "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Dtos\\AppointmentFilterDto.cs",
-              "RelativeDocumentMoniker": "MediBook.Application\\Dtos\\AppointmentFilterDto.cs",
-              "ToolTip": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Dtos\\AppointmentFilterDto.cs*",
-              "RelativeToolTip": "MediBook.Application\\Dtos\\AppointmentFilterDto.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "DoctorAvaikabilityValidator.cs",
+              "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Validators\\DoctorAvaikabilityValidator.cs",
+              "RelativeDocumentMoniker": "MediBook.Application\\Validators\\DoctorAvaikabilityValidator.cs",
+              "ToolTip": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Validators\\DoctorAvaikabilityValidator.cs",
+              "RelativeToolTip": "MediBook.Application\\Validators\\DoctorAvaikabilityValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-09T16:38:35.441Z",
+              "WhenOpened": "2026-08-11T11:40:26.616Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DashboardResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Dtos\\DashboardResponseDto.cs",
-              "RelativeDocumentMoniker": "MediBook.Application\\Dtos\\DashboardResponseDto.cs",
-              "ToolTip": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Dtos\\DashboardResponseDto.cs",
-              "RelativeToolTip": "MediBook.Application\\Dtos\\DashboardResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "AppointmentServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.UnitTests\\Services\\AppointmentServiceTests.cs",
+              "RelativeDocumentMoniker": "MediBook.UnitTests\\Services\\AppointmentServiceTests.cs",
+              "ToolTip": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.UnitTests\\Services\\AppointmentServiceTests.cs",
+              "RelativeToolTip": "MediBook.UnitTests\\Services\\AppointmentServiceTests.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAA5wLsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-09T16:00:49.724Z",
+              "WhenOpened": "2026-08-11T10:09:00.902Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "20260806123853_FixScheduledAtTimestamp.cs",
-              "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Infrastructure\\Migrations\\20260806123853_FixScheduledAtTimestamp.cs",
-              "RelativeDocumentMoniker": "MediBook.Infrastructure\\Migrations\\20260806123853_FixScheduledAtTimestamp.cs",
-              "ToolTip": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Infrastructure\\Migrations\\20260806123853_FixScheduledAtTimestamp.cs",
-              "RelativeToolTip": "MediBook.Infrastructure\\Migrations\\20260806123853_FixScheduledAtTimestamp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.UnitTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "MediBook.UnitTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.UnitTests\\UnitTest1.cs",
+              "RelativeToolTip": "MediBook.UnitTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T13:48:03.976Z"
+              "WhenOpened": "2026-08-11T10:02:54.982Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "InvalidStatusTransitionException.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Domain\\Exceptions\\InvalidStatusTransitionException.cs",
               "RelativeDocumentMoniker": "MediBook.Domain\\Exceptions\\InvalidStatusTransitionException.cs",
@@ -272,11 +285,12 @@
               "RelativeToolTip": "MediBook.Domain\\Exceptions\\InvalidStatusTransitionException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T13:36:31.352Z"
+              "WhenOpened": "2026-08-06T13:36:31.352Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "DoctorService.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Services\\DoctorService.cs",
               "RelativeDocumentMoniker": "MediBook.Application\\Services\\DoctorService.cs",
@@ -284,11 +298,12 @@
               "RelativeToolTip": "MediBook.Application\\Services\\DoctorService.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAkwB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T12:39:23.166Z"
+              "WhenOpened": "2026-07-30T12:39:23.166Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "AppointmentRepository.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Infrastructure\\Repositories\\AppointmentRepository.cs",
               "RelativeDocumentMoniker": "MediBook.Infrastructure\\Repositories\\AppointmentRepository.cs",
@@ -296,36 +311,38 @@
               "RelativeToolTip": "MediBook.Infrastructure\\Repositories\\AppointmentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-25T20:39:32.602Z"
+              "WhenOpened": "2026-07-25T20:39:32.602Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.API\\Program.cs",
               "RelativeDocumentMoniker": "MediBook.API\\Program.cs",
               "ToolTip": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.API\\Program.cs",
               "RelativeToolTip": "MediBook.API\\Program.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACoAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-26T16:32:11.899Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "JwtTokenGenerator.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Infrastructure\\Auth\\JwtTokenGenerator.cs",
               "RelativeDocumentMoniker": "MediBook.Infrastructure\\Auth\\JwtTokenGenerator.cs",
               "ToolTip": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Infrastructure\\Auth\\JwtTokenGenerator.cs",
               "RelativeToolTip": "MediBook.Infrastructure\\Auth\\JwtTokenGenerator.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwCAAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-26T14:33:24.138Z"
+              "WhenOpened": "2026-07-26T14:33:24.138Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "MediBookDbContext.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Infrastructure\\Data\\MediBookDbContext.cs",
               "RelativeDocumentMoniker": "MediBook.Infrastructure\\Data\\MediBookDbContext.cs",
@@ -333,11 +350,12 @@
               "RelativeToolTip": "MediBook.Infrastructure\\Data\\MediBookDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-25T19:52:50.662Z"
+              "WhenOpened": "2026-07-25T19:52:50.662Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "AppointmentDtos.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Dtos\\AppointmentDtos.cs",
               "RelativeDocumentMoniker": "MediBook.Application\\Dtos\\AppointmentDtos.cs",
@@ -350,33 +368,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AppointmentService.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Services\\AppointmentService.cs",
               "RelativeDocumentMoniker": "MediBook.Application\\Services\\AppointmentService.cs",
-              "ToolTip": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Services\\AppointmentService.cs*",
-              "RelativeToolTip": "MediBook.Application\\Services\\AppointmentService.cs*",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwEMAAAAeAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Services\\AppointmentService.cs",
+              "RelativeToolTip": "MediBook.Application\\Services\\AppointmentService.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAAIsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-06T11:24:43.498Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "DoctorAvailabilityService.cs",
+              "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Services\\DoctorAvailabilityService.cs",
+              "RelativeDocumentMoniker": "MediBook.Application\\Services\\DoctorAvailabilityService.cs",
+              "ToolTip": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Services\\DoctorAvailabilityService.cs",
+              "RelativeToolTip": "MediBook.Application\\Services\\DoctorAvailabilityService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T13:39:03.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20260806123853_FixScheduledAtTimestamp.cs",
+              "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Infrastructure\\Migrations\\20260806123853_FixScheduledAtTimestamp.cs",
+              "RelativeDocumentMoniker": "MediBook.Infrastructure\\Migrations\\20260806123853_FixScheduledAtTimestamp.cs",
+              "ToolTip": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Infrastructure\\Migrations\\20260806123853_FixScheduledAtTimestamp.cs",
+              "RelativeToolTip": "MediBook.Infrastructure\\Migrations\\20260806123853_FixScheduledAtTimestamp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T13:48:03.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DashboardResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Dtos\\DashboardResponseDto.cs",
+              "RelativeDocumentMoniker": "MediBook.Application\\Dtos\\DashboardResponseDto.cs",
+              "ToolTip": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Dtos\\DashboardResponseDto.cs",
+              "RelativeToolTip": "MediBook.Application\\Dtos\\DashboardResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T16:00:49.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppointmentFilterDto.cs",
+              "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Dtos\\AppointmentFilterDto.cs",
+              "RelativeDocumentMoniker": "MediBook.Application\\Dtos\\AppointmentFilterDto.cs",
+              "ToolTip": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Dtos\\AppointmentFilterDto.cs",
+              "RelativeToolTip": "MediBook.Application\\Dtos\\AppointmentFilterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T16:38:35.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "AppointmentsController.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.API\\Controllers\\AppointmentsController.cs",
               "RelativeDocumentMoniker": "MediBook.API\\Controllers\\AppointmentsController.cs",
-              "ToolTip": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.API\\Controllers\\AppointmentsController.cs*",
-              "RelativeToolTip": "MediBook.API\\Controllers\\AppointmentsController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAACAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.API\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "MediBook.API\\Controllers\\AppointmentsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwCAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-06T12:12:39.193Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "DashboardService.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Services\\DashboardService.cs",
               "RelativeDocumentMoniker": "MediBook.Application\\Services\\DashboardService.cs",
@@ -389,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.API\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "MediBook.API\\Controllers\\DashboardController.cs",
@@ -402,7 +472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "ErrorHandlingMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.API\\Middleware\\ErrorHandlingMiddleware.cs",
               "RelativeDocumentMoniker": "MediBook.API\\Middleware\\ErrorHandlingMiddleware.cs",
@@ -415,7 +485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Infrastructure\\Auth\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "MediBook.Infrastructure\\Auth\\DependencyInjection.cs",
@@ -423,11 +493,12 @@
               "RelativeToolTip": "MediBook.Infrastructure\\Auth\\DependencyInjection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-26T15:29:13.66Z"
+              "WhenOpened": "2026-07-26T15:29:13.66Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "ISpecialtyRepository.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Interfaces\\ISpecialtyRepository.cs",
               "RelativeDocumentMoniker": "MediBook.Application\\Interfaces\\ISpecialtyRepository.cs",
@@ -435,23 +506,25 @@
               "RelativeToolTip": "MediBook.Application\\Interfaces\\ISpecialtyRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-27T22:27:47.552Z"
+              "WhenOpened": "2026-07-27T22:27:47.552Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "IDoctorAvailabilityRepository.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Interfaces\\IDoctorAvailabilityRepository.cs",
               "RelativeDocumentMoniker": "MediBook.Application\\Interfaces\\IDoctorAvailabilityRepository.cs",
               "ToolTip": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Interfaces\\IDoctorAvailabilityRepository.cs",
               "RelativeToolTip": "MediBook.Application\\Interfaces\\IDoctorAvailabilityRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T13:36:36.228Z"
+              "WhenOpened": "2026-07-30T13:36:36.228Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "IAppointmentRepository.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Interfaces\\IAppointmentRepository.cs",
               "RelativeDocumentMoniker": "MediBook.Application\\Interfaces\\IAppointmentRepository.cs",
@@ -459,11 +532,12 @@
               "RelativeToolTip": "MediBook.Application\\Interfaces\\IAppointmentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-25T19:43:10.476Z"
+              "WhenOpened": "2026-07-25T19:43:10.476Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "DoctorAvailabilitiesController.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.API\\Controllers\\DoctorAvailabilitiesController.cs",
               "RelativeDocumentMoniker": "MediBook.API\\Controllers\\DoctorAvailabilitiesController.cs",
@@ -471,11 +545,12 @@
               "RelativeToolTip": "MediBook.API\\Controllers\\DoctorAvailabilitiesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T13:45:26.662Z"
+              "WhenOpened": "2026-07-30T13:45:26.662Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "PatientDto.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Dtos\\PatientDto.cs",
               "RelativeDocumentMoniker": "MediBook.Application\\Dtos\\PatientDto.cs",
@@ -483,11 +558,12 @@
               "RelativeToolTip": "MediBook.Application\\Dtos\\PatientDto.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAuwBQAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T08:25:38.563Z"
+              "WhenOpened": "2026-08-06T08:25:38.563Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "PatientService.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Services\\PatientService.cs",
               "RelativeDocumentMoniker": "MediBook.Application\\Services\\PatientService.cs",
@@ -495,11 +571,12 @@
               "RelativeToolTip": "MediBook.Application\\Services\\PatientService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAowCIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T08:30:30.68Z"
+              "WhenOpened": "2026-08-06T08:30:30.68Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "PatientsController.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.API\\Controllers\\PatientsController.cs",
               "RelativeDocumentMoniker": "MediBook.API\\Controllers\\PatientsController.cs",
@@ -507,11 +584,12 @@
               "RelativeToolTip": "MediBook.API\\Controllers\\PatientsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T11:16:24.623Z"
+              "WhenOpened": "2026-08-06T11:16:24.623Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "DoctorAvailabilityDto.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Dtos\\DoctorAvailabilityDto.cs",
               "RelativeDocumentMoniker": "MediBook.Application\\Dtos\\DoctorAvailabilityDto.cs",
@@ -519,23 +597,12 @@
               "RelativeToolTip": "MediBook.Application\\Dtos\\DoctorAvailabilityDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T13:34:21.081Z"
+              "WhenOpened": "2026-07-30T13:34:21.081Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "DoctorAvailabilityService.cs",
-              "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Services\\DoctorAvailabilityService.cs",
-              "RelativeDocumentMoniker": "MediBook.Application\\Services\\DoctorAvailabilityService.cs",
-              "ToolTip": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Services\\DoctorAvailabilityService.cs",
-              "RelativeToolTip": "MediBook.Application\\Services\\DoctorAvailabilityService.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowCUAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T13:39:03.351Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.API\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "MediBook.API\\Controllers\\AuthController.cs",
@@ -543,11 +610,12 @@
               "RelativeToolTip": "MediBook.API\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAowCAAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-27T20:42:24.22Z"
+              "WhenOpened": "2026-07-27T20:42:24.22Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "DoctorAvailabilityRepository.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Infrastructure\\Repositories\\DoctorAvailabilityRepository.cs",
               "RelativeDocumentMoniker": "MediBook.Infrastructure\\Repositories\\DoctorAvailabilityRepository.cs",
@@ -555,23 +623,25 @@
               "RelativeToolTip": "MediBook.Infrastructure\\Repositories\\DoctorAvailabilityRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T13:43:29.903Z"
+              "WhenOpened": "2026-07-30T13:43:29.903Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "MediBook.API.csproj",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.API\\MediBook.API.csproj",
               "RelativeDocumentMoniker": "MediBook.API\\MediBook.API.csproj",
               "ToolTip": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.API\\MediBook.API.csproj",
               "RelativeToolTip": "MediBook.API\\MediBook.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-26T16:54:50.24Z"
+              "WhenOpened": "2026-07-26T16:54:50.24Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.API\\appsettings.json",
               "RelativeDocumentMoniker": "MediBook.API\\appsettings.json",
@@ -579,11 +649,12 @@
               "RelativeToolTip": "MediBook.API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-26T16:25:22.693Z"
+              "WhenOpened": "2026-07-26T16:25:22.693Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "DoctorRepository.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Infrastructure\\Repositories\\DoctorRepository.cs",
               "RelativeDocumentMoniker": "MediBook.Infrastructure\\Repositories\\DoctorRepository.cs",
@@ -591,47 +662,51 @@
               "RelativeToolTip": "MediBook.Infrastructure\\Repositories\\DoctorRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-25T20:35:35.733Z"
+              "WhenOpened": "2026-07-25T20:35:35.733Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "SpecialtyDto.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Dtos\\SpecialtyDto.cs",
               "RelativeDocumentMoniker": "MediBook.Application\\Dtos\\SpecialtyDto.cs",
               "ToolTip": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Dtos\\SpecialtyDto.cs",
               "RelativeToolTip": "MediBook.Application\\Dtos\\SpecialtyDto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-27T22:30:14.814Z"
+              "WhenOpened": "2026-07-27T22:30:14.814Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "SpecialtyService.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Services\\SpecialtyService.cs",
               "RelativeDocumentMoniker": "MediBook.Application\\Services\\SpecialtyService.cs",
               "ToolTip": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Services\\SpecialtyService.cs",
               "RelativeToolTip": "MediBook.Application\\Services\\SpecialtyService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAgwCAAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA1wCAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-27T22:32:31.288Z"
+              "WhenOpened": "2026-07-27T22:32:31.288Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "SpecialtyRepository.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Infrastructure\\Repositories\\SpecialtyRepository.cs",
               "RelativeDocumentMoniker": "MediBook.Infrastructure\\Repositories\\SpecialtyRepository.cs",
               "ToolTip": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Infrastructure\\Repositories\\SpecialtyRepository.cs",
               "RelativeToolTip": "MediBook.Infrastructure\\Repositories\\SpecialtyRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA4AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-27T22:44:07.33Z"
+              "WhenOpened": "2026-07-27T22:44:07.33Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "IPatientRepository.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Interfaces\\IPatientRepository.cs",
               "RelativeDocumentMoniker": "MediBook.Application\\Interfaces\\IPatientRepository.cs",
@@ -639,11 +714,12 @@
               "RelativeToolTip": "MediBook.Application\\Interfaces\\IPatientRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-25T17:38:46.202Z"
+              "WhenOpened": "2026-07-25T17:38:46.202Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "DoctorDto.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Dtos\\DoctorDto.cs",
               "RelativeDocumentMoniker": "MediBook.Application\\Dtos\\DoctorDto.cs",
@@ -651,23 +727,25 @@
               "RelativeToolTip": "MediBook.Application\\Dtos\\DoctorDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T12:25:14.321Z"
+              "WhenOpened": "2026-07-30T12:25:14.321Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "DoctorsController.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.API\\Controllers\\DoctorsController.cs",
               "RelativeDocumentMoniker": "MediBook.API\\Controllers\\DoctorsController.cs",
               "ToolTip": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.API\\Controllers\\DoctorsController.cs",
               "RelativeToolTip": "MediBook.API\\Controllers\\DoctorsController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T12:52:53.842Z"
+              "WhenOpened": "2026-07-30T12:52:53.842Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "AuthDtos.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Dtos\\AuthDtos.cs",
               "RelativeDocumentMoniker": "MediBook.Application\\Dtos\\AuthDtos.cs",
@@ -675,11 +753,12 @@
               "RelativeToolTip": "MediBook.Application\\Dtos\\AuthDtos.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAowBMAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-26T14:16:18.686Z"
+              "WhenOpened": "2026-07-26T14:16:18.686Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "SpecialtiesController.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.API\\Controllers\\SpecialtiesController.cs",
               "RelativeDocumentMoniker": "MediBook.API\\Controllers\\SpecialtiesController.cs",
@@ -687,11 +766,12 @@
               "RelativeToolTip": "MediBook.API\\Controllers\\SpecialtiesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-27T22:48:31.783Z"
+              "WhenOpened": "2026-07-27T22:48:31.783Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Infrastructure\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "MediBook.Infrastructure\\Repositories\\UserRepository.cs",
@@ -699,23 +779,25 @@
               "RelativeToolTip": "MediBook.Infrastructure\\Repositories\\UserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-26T14:29:53.709Z"
+              "WhenOpened": "2026-07-26T14:29:53.709Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "MediBook.Application\\Services\\AuthService.cs",
               "ToolTip": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Services\\AuthService.cs",
               "RelativeToolTip": "MediBook.Application\\Services\\AuthService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAABgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwCoAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-26T14:21:38.793Z"
+              "WhenOpened": "2026-07-26T14:21:38.793Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "ITokenGenerator.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Interfaces\\ITokenGenerator.cs",
               "RelativeDocumentMoniker": "MediBook.Application\\Interfaces\\ITokenGenerator.cs",
@@ -723,11 +805,12 @@
               "RelativeToolTip": "MediBook.Application\\Interfaces\\ITokenGenerator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-26T14:15:11.456Z"
+              "WhenOpened": "2026-07-26T14:15:11.456Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 46,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "MediBook.Application\\Interfaces\\IUserRepository.cs",
@@ -735,11 +818,12 @@
               "RelativeToolTip": "MediBook.Application\\Interfaces\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-26T14:14:00.998Z"
+              "WhenOpened": "2026-07-26T14:14:00.998Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 47,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "MediBook.Domain\\Entities\\User.cs",
@@ -747,11 +831,12 @@
               "RelativeToolTip": "MediBook.Domain\\Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-26T14:11:36.965Z"
+              "WhenOpened": "2026-07-26T14:11:36.965Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "Doctor.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Domain\\Entities\\Doctor.cs",
               "RelativeDocumentMoniker": "MediBook.Domain\\Entities\\Doctor.cs",
@@ -759,11 +844,12 @@
               "RelativeToolTip": "MediBook.Domain\\Entities\\Doctor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-25T15:36:03.427Z"
+              "WhenOpened": "2026-07-25T15:36:03.427Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 48,
               "Title": "PatientRepository.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Infrastructure\\Repositories\\PatientRepository.cs",
               "RelativeDocumentMoniker": "MediBook.Infrastructure\\Repositories\\PatientRepository.cs",
@@ -771,11 +857,12 @@
               "RelativeToolTip": "MediBook.Infrastructure\\Repositories\\PatientRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-25T20:39:03.844Z"
+              "WhenOpened": "2026-07-25T20:39:03.844Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "IDoctorRepository.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Application\\Interfaces\\IDoctorRepository.cs",
               "RelativeDocumentMoniker": "MediBook.Application\\Interfaces\\IDoctorRepository.cs",
@@ -783,11 +870,12 @@
               "RelativeToolTip": "MediBook.Application\\Interfaces\\IDoctorRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-25T17:36:16.356Z"
+              "WhenOpened": "2026-07-25T17:36:16.356Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 51,
               "Title": "SlotUnavailableException.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Domain\\Exceptions\\SlotUnavailableException.cs",
               "RelativeDocumentMoniker": "MediBook.Domain\\Exceptions\\SlotUnavailableException.cs",
@@ -795,11 +883,12 @@
               "RelativeToolTip": "MediBook.Domain\\Exceptions\\SlotUnavailableException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-25T16:34:36.673Z"
+              "WhenOpened": "2026-07-25T16:34:36.673Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 52,
               "Title": "BookingConflictException.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Domain\\Exceptions\\BookingConflictException.cs",
               "RelativeDocumentMoniker": "MediBook.Domain\\Exceptions\\BookingConflictException.cs",
@@ -807,11 +896,12 @@
               "RelativeToolTip": "MediBook.Domain\\Exceptions\\BookingConflictException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-25T16:33:05.044Z"
+              "WhenOpened": "2026-07-25T16:33:05.044Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 49,
               "Title": "Appointment.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Domain\\Entities\\Appointment.cs",
               "RelativeDocumentMoniker": "MediBook.Domain\\Entities\\Appointment.cs",
@@ -819,11 +909,12 @@
               "RelativeToolTip": "MediBook.Domain\\Entities\\Appointment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-25T16:30:36.607Z"
+              "WhenOpened": "2026-07-25T16:30:36.607Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 53,
               "Title": "DoctorAvailability.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Domain\\Entities\\DoctorAvailability.cs",
               "RelativeDocumentMoniker": "MediBook.Domain\\Entities\\DoctorAvailability.cs",
@@ -831,11 +922,12 @@
               "RelativeToolTip": "MediBook.Domain\\Entities\\DoctorAvailability.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-25T16:18:30.705Z"
+              "WhenOpened": "2026-07-25T16:18:30.705Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 54,
               "Title": "Patient.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Domain\\Entities\\Patient.cs",
               "RelativeDocumentMoniker": "MediBook.Domain\\Entities\\Patient.cs",
@@ -843,11 +935,12 @@
               "RelativeToolTip": "MediBook.Domain\\Entities\\Patient.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwA0AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-25T16:14:56.923Z"
+              "WhenOpened": "2026-07-25T16:14:56.923Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 55,
               "Title": "Specialty.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Domain\\Entities\\Specialty.cs",
               "RelativeDocumentMoniker": "MediBook.Domain\\Entities\\Specialty.cs",
@@ -855,11 +948,12 @@
               "RelativeToolTip": "MediBook.Domain\\Entities\\Specialty.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-25T16:13:01.669Z"
+              "WhenOpened": "2026-07-25T16:13:01.669Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 50,
               "Title": "AppointmentStatus.cs",
               "DocumentMoniker": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Domain\\Enums\\AppointmentStatus.cs",
               "RelativeDocumentMoniker": "MediBook.Domain\\Enums\\AppointmentStatus.cs",
@@ -867,7 +961,8 @@
               "RelativeToolTip": "MediBook.Domain\\Enums\\AppointmentStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-25T15:34:51.695Z"
+              "WhenOpened": "2026-07-25T15:34:51.695Z",
+              "EditorCaption": ""
             }
           ]
         }

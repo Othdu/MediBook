@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "itrLK2m+cu0=",
+  "dgSpecHash": "onEqD1yEvME=",
   "success": true,
   "projectFilePath": "C:\\Users\\mohmu\\visual\\repos\\MediBook\\MediBook.Infrastructure\\MediBook.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\mohmu\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",
     "C:\\Users\\mohmu\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\mohmu\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
     "C:\\Users\\mohmu\\.nuget\\packages\\microsoft.bcl.cryptography\\10.0.2\\microsoft.bcl.cryptography.10.0.2.nupkg.sha512",

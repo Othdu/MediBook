@@ -124,7 +124,6 @@ namespace MediBook.Application.Services
             if (hasConflict)
                 throw new BookingConflictException("This doctor already has an appointment at the requested time.");
 
-
             var appointment = new Appointment
             {
                 DoctorId = dto.DoctorId,
@@ -134,6 +133,10 @@ namespace MediBook.Application.Services
             };
             _appointmentRepository.Add(appointment);
             _appointmentRepository.SaveChanges();
+
+            appointment.Doctor = doctor;
+            appointment.Patient = patient;
+
             return MapToDto(appointment);
         }
 

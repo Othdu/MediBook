@@ -35,7 +35,6 @@ namespace MediBook.Application.Services
             var doctor = _doctorRepository.GetById(dto.DoctorId);
             if (doctor == null) return null;
 
-            if (dto.EndTime <= dto.StartTime) return null; // invalid time range
 
             var availability = new DoctorAvailability
             {
